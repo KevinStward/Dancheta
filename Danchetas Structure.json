@@ -1,0 +1,57 @@
+{
+  "usuario": {
+    "nombre": "Ejemplo",
+    "apellido": "Ejemplo2",
+    "email": "example@hpt.com",
+    "contraseña": "92h98x37293hx19h3x192873h",
+    "anchetas": [
+      {
+        "name": "Dia del padre",
+        "productos": [
+          "Mountainblack",
+          "Producto 2",
+          "Producto 3"
+        ]
+      },
+      {
+        "name": "San Valentin",
+        "productos": {
+          "0": {
+            "nombre": "MontainBlack",
+            "precio": 1000,
+            "fotoProducto": "../mointainBlack.jpg",
+            "medida": "kg"
+          },
+          "1": {
+            "nombre": "MontainBlack",
+            "precio": 1000,
+            "fotoProducto": "../mointainBlack.jpg",
+            "medida": "kg"
+          },
+          "2": {
+            "nombre": "MontainBlack",
+            "precio": 1000,
+            "fotoProducto": "../mointainBlack.jpg",
+            "medida": "kg"
+          }
+        }
+      },
+      {
+        "name": "Dia de la Madre",
+        "productos": [
+          "Producto 1",
+          "Producto 2",
+          "Producto 3"
+        ]
+      }
+    ]
+  },
+  "producto": {
+    "0": {
+      "nombre": "MontainBlack",
+      "precio": 1000,
+      "fotoProducto": "../mointainBlack.jpg",
+      "medida": "kg"
+    }
+  }
+}
